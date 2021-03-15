@@ -1,8 +1,6 @@
 # clickweb_project
-processo seletivo para vaga clickweb
 
 Tecnologias Utilizadas:
-
 
 React Native
 - React Navigation (Stacks, Screen)
