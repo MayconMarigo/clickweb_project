@@ -15,7 +15,7 @@ Reproduzir as telas solicitadas:
 
 #Tela de Login
 
-![image](https://user-images.githubusercontent.com/67290959/111157294-7c6b3280-8575-11eb-8d1a-a5207aff1b10.png)
+![image](https://user-images.githubusercontent.com/67290959/111196129-b818f300-859b-11eb-95cf-ab2d39ad2fbd.png)
 
 #Tela de Cadastro
 
